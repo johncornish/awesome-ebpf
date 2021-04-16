@@ -1,3 +1,15 @@
+# TObs K8s SaaS additions
+
+- https://thenewstack.io/how-ebpf-turns-linux-into-a-programmable-kernel/
+  - How is this even safe? This is too cool. What's the potential for code being snuck into the kernal that we don't want there?
+
+
+
+
+
+
+
+
 # Awesome eBPF [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome projects related to eBPF.
